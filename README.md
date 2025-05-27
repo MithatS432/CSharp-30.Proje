@@ -1,2 +1,2 @@
-# CSharp-30.Proje
+# C#-30.Proje
 Kapsülleme (Encapsulation)2
